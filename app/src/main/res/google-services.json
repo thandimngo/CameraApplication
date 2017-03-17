@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481065690491",
+    "firebase_url": "https://capturephotos-98f11.firebaseio.com",
+    "project_id": "capturephotos-98f11",
+    "storage_bucket": "capturephotos-98f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481065690491:android:81ea0dd70f1463b9",
+        "android_client_info": {
+          "package_name": "com.example.admin.cameraapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481065690491-9e7rm63ae6up9j5o6omtasgm0jr1a01h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.cameraapplication",
+            "certificate_hash": "acf9264c2c2cdf2291bdc8ed4d4a2b79c8d6e07a"
+          }
+        },
+        {
+          "client_id": "481065690491-emalvqcgfm3425oh1litlhp7dqhfqgjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyiGnSjhXiCkZea843eXjefEnZhg7cx-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481065690491-emalvqcgfm3425oh1litlhp7dqhfqgjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
